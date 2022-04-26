@@ -53,7 +53,7 @@
 - Abir endpoint
 - Click en Try it Out
 - Click Execute
-![image]https://raw.githubusercontent.com/omivalera/omivalera.github.io/master/assets/images/h17351.JPG
+![image](https://raw.githubusercontent.com/omivalera/omivalera.github.io/master/assets/images/h17351.JPG)
 # Desafio Postulantes
 
 Con el fin de seleccionar a nuestros 2 developers, tenemos el siguente desafio.
