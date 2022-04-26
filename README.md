@@ -1,6 +1,7 @@
 # La solución fue desarrollada en Python con FastApi
 
 - Formato de respuesta en Json 
+```json
 [
   {
     "ID": 1,
@@ -42,6 +43,7 @@
     "Estado": "ACTUALIZADO"
   }...
 ]
+```
 
 # Instalación
 - pip install fastapi uvicorn pandas
