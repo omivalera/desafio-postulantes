@@ -49,10 +49,11 @@
 - pip install fastapi uvicorn pandas
 - uvicorn scrapp:app --reload
 # Visualización
-- Entrar en la documentación interactiva de FastApi http://127.0.0.1:8000/docs
+- Entrar en la documentación interactiva de FastApi [Link]http://127.0.0.1:8000/docs
 - Abir endpoint
 - Click en Try it Out
 - Click Execute
+![image]https://raw.githubusercontent.com/omivalera/omivalera.github.io/master/assets/images/h17351.JPG
 # Desafio Postulantes
 
 Con el fin de seleccionar a nuestros 2 developers, tenemos el siguente desafio.
